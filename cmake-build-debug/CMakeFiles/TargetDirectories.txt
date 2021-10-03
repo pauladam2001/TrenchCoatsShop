@@ -1,0 +1,4 @@
+C:/Users/paula/OneDrive/Documents/GitHub/a10-pauladam2001-1/cmake-build-debug/CMakeFiles/a10_pauladam2001_1.dir
+C:/Users/paula/OneDrive/Documents/GitHub/a10-pauladam2001-1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/paula/OneDrive/Documents/GitHub/a10-pauladam2001-1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+C:/Users/paula/OneDrive/Documents/GitHub/a10-pauladam2001-1/cmake-build-debug/CMakeFiles/a10_pauladam2001_1_autogen.dir
