@@ -3,7 +3,7 @@
 # Used Concepts
 - Qt GUI
 - Layered architecture
-- inheritance, polymorphism, abstraction, encapsulation
+- Inheritance, polymorphism, abstraction, encapsulation
 - MVC pattern
 - Command design pattern
 - Observer pattern
