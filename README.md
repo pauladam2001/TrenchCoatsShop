@@ -6,6 +6,7 @@
 - inheritance, polymorphism, abstraction, encapsulation
 - MVC pattern
 - Command design pattern
+- Observer pattern
 ---
 # Functionalities
 - The user can choose between user or admin mode
