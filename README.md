@@ -1,5 +1,18 @@
-C++ application managing a store using inheritance, polymorphism, layered architecture and Qt GUI.
+### C++ application managing a store.
 ---
+# Used Concepts
+-Qt GUI
+- Layered architecture
+- inheritance, polymorphism, abstraction, encapsulation
+- MVC pattern
+- Command design pattern
+---
+# Functionalities
+- The user can choose between user or admin mode
+- Also, the user can change the type of file where the shopping basket is displayed (CSV or HTML)
+- Undo/Redo functionality for add, remove, update and for the shopping basket (Ctrl+Z, Ctrl+Y)
+---
+# Demo
 - ![2021-10-18 (5)](https://user-images.githubusercontent.com/72084877/137704265-1e4deeed-6f61-444d-a73a-0eba5ea95f72.png)
 - ![2021-10-18 (6)](https://user-images.githubusercontent.com/72084877/137704275-09e6f709-1a15-4163-b902-9aa57d014aa6.png)
 - User mode:
