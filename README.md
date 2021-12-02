@@ -1,7 +1,7 @@
 ### C++ application managing a store.
 ---
 # Used Concepts
--Qt GUI
+- Qt GUI
 - Layered architecture
 - inheritance, polymorphism, abstraction, encapsulation
 - MVC pattern
